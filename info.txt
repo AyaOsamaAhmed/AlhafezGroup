@@ -1,0 +1,12 @@
+key store path file (apk release):F:\Android2.2.2\EasternRevierRestutant\apk_release.jks
+password (apk release) :QWert12345
+
+alias: 24agency
+alias password : QWert12345
+
+first and last: ashraf elgmayah
+
+password master : QWert12345
+
+
+apk online:  F:\Android2.2.2\EasternRevierRestutant\app

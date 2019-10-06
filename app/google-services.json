@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1075491634272",
+    "firebase_url": "https://android-gcm-d3252.firebaseio.com",
+    "project_id": "android-gcm-d3252",
+    "storage_bucket": "android-gcm-d3252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075491634272:android:79a420dc1102ef61",
+        "android_client_info": {
+          "package_name": "com.alhafezegypt.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075491634272-in989l1k30tlnohi5kl4kjlt92cng5h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB--EPLU6OMZYIgIqhQtqblX9aZpSGGvDs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
